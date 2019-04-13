@@ -1,4 +1,4 @@
-# Simple YouTube Search
+# Simple YouTube Player
 
 This example from Barry Michael Doyle's greate tutorial. https://github.com/barrymichaeldoyle/simple-youtube-search
 
